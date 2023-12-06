@@ -1,0 +1,3 @@
+hello
+my second file
+git commit -a -m"trying to push file without staging".
